@@ -1,0 +1,9 @@
+C:\rain-pro\視窗作業\1043335_HW3\bin\Debug\1043335_HW3.exe.config
+C:\rain-pro\視窗作業\1043335_HW3\bin\Debug\1043335_HW3.exe
+C:\rain-pro\視窗作業\1043335_HW3\bin\Debug\1043335_HW3.pdb
+C:\rain-pro\視窗作業\1043335_HW3\obj\Debug\1043335_HW3.csprojResolveAssemblyReference.cache
+C:\rain-pro\視窗作業\1043335_HW3\obj\Debug\_1043335_HW3.Form1.resources
+C:\rain-pro\視窗作業\1043335_HW3\obj\Debug\_1043335_HW3.Properties.Resources.resources
+C:\rain-pro\視窗作業\1043335_HW3\obj\Debug\1043335_HW3.csproj.GenerateResource.Cache
+C:\rain-pro\視窗作業\1043335_HW3\obj\Debug\1043335_HW3.exe
+C:\rain-pro\視窗作業\1043335_HW3\obj\Debug\1043335_HW3.pdb
