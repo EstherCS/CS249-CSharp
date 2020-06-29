@@ -1,0 +1,18 @@
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\bin\Debug\Drawing Lines.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\bin\Debug\Drawing Lines.exe
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\bin\Debug\Drawing Lines.pdb
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\obj\Debug\Drawing_Lines.Form1.resources
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\obj\Debug\Drawing_Lines.Properties.Resources.resources
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\obj\Debug\Drawing Lines.csproj.GenerateResource.Cache
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\obj\Debug\Drawing Lines.exe
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\obj\Debug\Drawing Lines.pdb
+c:\users\sean\documents\visual studio 2015\Projects\Drawing Lines\Drawing Lines\obj\Debug\Drawing Lines.csprojResolveAssemblyReference.cache
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\bin\Debug\Drawing Lines.exe.config
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\obj\Debug\Drawing Lines.exe
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\obj\Debug\Drawing Lines.pdb
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\bin\Debug\Drawing Lines.exe
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\bin\Debug\Drawing Lines.pdb
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\obj\Debug\Drawing Lines.csprojResolveAssemblyReference.cache
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\obj\Debug\Drawing_Lines.Form1.resources
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\obj\Debug\Drawing_Lines.Properties.Resources.resources
+C:\Users\rain\Downloads\作業\作業\Drawing Lines\obj\Debug\Drawing Lines.csproj.GenerateResource.Cache
